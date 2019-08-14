@@ -1,0 +1,10 @@
+<?jelly escape-by-default='true'?>
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+    JOB执行完成后回调tp-performace平台：
+        1.通知云测平台计算压测结果.
+        2.通知云测平台更改性能测试任务状态.
+        3.快钱云测平台使用.
+</div>
